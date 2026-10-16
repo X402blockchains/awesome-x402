@@ -12,6 +12,7 @@ A focused resource guide maintained by [X402blockchains](https://x402blockchains
 - [Official examples](https://github.com/x402-foundation/x402/tree/main/examples) — start from maintained upstream integrations.
 
 ## Explore the ecosystem
+- [Vend Browser Agent](https://extract.paypercall.dev/api/v1/browser-agent) — Pay-per-call browser automation and stealth scraping over x402, settled in Nano (XNO); no account or API key.
 
 - [X402blockchains](https://x402blockchains.com) — project discovery and payment exploration.
 - [x402scan](https://www.x402scan.com/) — ecosystem explorer.

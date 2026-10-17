@@ -19,6 +19,10 @@ A focused resource guide maintained by [X402blockchains](https://x402blockchains
 
 Compare the same network, UTC time range and measurement definition. Wallet transfers, protocol settlements and API requests are different measurements; totals need not match.
 
+## Operations and security
+
+- [x402 server hardening checklist (Solana `exact`)](https://github.com/AiTeam098/x402-server-hardening-checklist) — 19 checks for resource servers: whole-offer binding, durable single-use claims, `settlement_pending` handling, fail-closed settlement ambiguity, abuse limits. Items marked [repro] were reproduced by test against a mock facilitator.
+
 ## Community repositories
 
 - [Explorer source](https://github.com/X402blockchains/x402blockchain)

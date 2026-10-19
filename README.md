@@ -16,6 +16,7 @@ A focused resource guide maintained by [X402blockchains](https://x402blockchains
 - [X402blockchains](https://x402blockchains.com) — project discovery and payment exploration.
 - [x402scan](https://www.x402scan.com/) — ecosystem explorer.
 - [Agent402](https://agent402.tools/base) — Base seller discovery and activity views.
+- [Money Reactor](https://money-reactor.makar52nn2016.workers.dev) — live x402-payable API and MCP server on Base: token security verdicts, repo honeypot scoring, AI dossiers and data endpoints ($0.001–$0.05 per call). Source: [GitHub](https://github.com/makar52nn-crypto/x402-money-reactor). (Affiliation: submitted by the project maintainer.)
 
 Compare the same network, UTC time range and measurement definition. Wallet transfers, protocol settlements and API requests are different measurements; totals need not match.
 

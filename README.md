@@ -25,6 +25,10 @@ Compare the same network, UTC time range and measurement definition. Wallet tran
 - [Listing registry](https://github.com/X402blockchains/x402-registry)
 - [Integration examples](https://github.com/X402blockchains/x402-examples)
 
+## Developer tools
+
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — Local-first CLI and stdio MCP payment runtime for AI agents on macOS Apple Silicon, with x402 support and foreground owner approval. [Official documentation](https://github.com/nuanu-ai/agent-payment-node#readme).
+
 ## Suggest a resource
 
 Open a pull request with the public URL, a short factual description, category and official documentation. Prefer maintained primary sources. Disclose affiliation. No referral links, fabricated activity metrics or paid ranking.

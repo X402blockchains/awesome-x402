@@ -16,6 +16,7 @@ A focused resource guide maintained by [X402blockchains](https://x402blockchains
 - [X402blockchains](https://x402blockchains.com) — project discovery and payment exploration.
 - [x402scan](https://www.x402scan.com/) — ecosystem explorer.
 - [Agent402](https://agent402.tools/base) — Base seller discovery and activity views.
+- [AI Data Refinery](https://refinerydata.net) — pay-per-crawl dataset store for AI agents: verified legacy industrial automation end-of-life and migration cross-reference datasets (Rockwell Automation, Siemens; Mitsubishi in progress) sold as Markdown files via x402 on Base.
 
 Compare the same network, UTC time range and measurement definition. Wallet transfers, protocol settlements and API requests are different measurements; totals need not match.
 

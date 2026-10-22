@@ -16,6 +16,7 @@ A focused resource guide maintained by [X402blockchains](https://x402blockchains
 - [X402blockchains](https://x402blockchains.com) — project discovery and payment exploration.
 - [x402scan](https://www.x402scan.com/) — ecosystem explorer.
 - [Agent402](https://agent402.tools/base) — Base seller discovery and activity views.
+- [x402 Agent APIs](https://golf-evm-math.x402-evm-math.workers.dev/llms.txt) — pay-per-call APIs on Base USDC (chat completions $0.001, email check $0.005, package check $0.0015, SEC EDGAR data); curl and client examples at [overwatchdominion-stack/x402-agent-apis](https://github.com/overwatchdominion-stack/x402-agent-apis). Affiliation: operator.
 
 Compare the same network, UTC time range and measurement definition. Wallet transfers, protocol settlements and API requests are different measurements; totals need not match.
 

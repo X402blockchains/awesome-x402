@@ -17,6 +17,12 @@ A focused resource guide maintained by [X402blockchains](https://x402blockchains
 - [x402scan](https://www.x402scan.com/) — ecosystem explorer.
 - [Agent402](https://agent402.tools/base) — Base seller discovery and activity views.
 
+### Live services (Base USDC)
+
+- [agent-audit](https://agent-audit.agent-audit.workers.dev/llms.txt) — Read-only x402 seller preflight: 402 challenge decode, price-vs-catalog, `llms.txt` / `/.well-known/x402` / OpenAPI / dead-link checks, plus link health and quote/citation check. Pay per call in USDC on Base (eip155:8453). ([OpenAPI](https://agent-audit.agent-audit.workers.dev/openapi.json), [registry proposal](https://github.com/X402blockchains/x402-registry/blob/main/proposals/agent-audit.md))
+- [page-read](https://page-read.agent-audit.workers.dev/llms.txt) — Pay-per-call HTML page fetch + text extract ($0.001 USDC on Base). ([OpenAPI](https://page-read.agent-audit.workers.dev/openapi.json), [registry proposal](https://github.com/X402blockchains/x402-registry/blob/main/proposals/page-read.md))
+- [x402-tools MCP](https://mcp.agent-audit.workers.dev/mcp) — Remote MCP wrapping page-read, quote-check, check-links, and audit_x402_seller over x402. Official MCP Registry: `io.github.agent-audit-x402/x402-tools`.
+
 Compare the same network, UTC time range and measurement definition. Wallet transfers, protocol settlements and API requests are different measurements; totals need not match.
 
 ## Community repositories

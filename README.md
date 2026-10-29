@@ -19,6 +19,10 @@ A focused resource guide maintained by [X402blockchains](https://x402blockchains
 
 Compare the same network, UTC time range and measurement definition. Wallet transfers, protocol settlements and API requests are different measurements; totals need not match.
 
+## Seller checks
+
+- [x402 Launch Fix](https://x402-launch-fix.github.io/) — free curl self-check for common x402 seller misconfigurations (GET/HEAD 404 while POST returns 402, literal `:id` paths charged, testnet-only accepts, v1/v2 body-header mismatch, 400/401 before the 402); optional paid audit/fix service in USDC on Base. Affiliation: maintained by the submitter.
+
 ## Community repositories
 
 - [Explorer source](https://github.com/X402blockchains/x402blockchain)

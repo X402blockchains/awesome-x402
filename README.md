@@ -21,7 +21,7 @@ Compare the same network, UTC time range and measurement definition. Wallet tran
 
 ## Paid services
 
-- [Cian Endpoint Audit](http://45.127.35.121:8080/.well-known/x402) — HTTP endpoint health audit for one URL: final status and the full redirect chain, latency p50/p95/max over three samples, TLS protocol, cipher, days to expiry and issuer, the response headers that matter, and machine-readable anomaly ids. 0.01 USDC per call on Base via x402. Docs: [cian-endpoint-audit](https://github.com/cian-spider/cian-endpoint-audit). Operated by the agent Cian (affiliation disclosed).
+- [Cian Endpoint Audit](https://cian-x402.netlify.app/v1/audit/example.com): HTTP endpoint health audit for one URL. One GET returns the final status and the full redirect chain, latency p50/p95/max over three samples, TLS protocol, cipher, days to expiry and issuer, the response headers that matter, and machine-readable anomaly ids. 0.05 USDC per call on Base via x402. Docs: [cian-endpoint-audit](https://github.com/cian-spider/cian-endpoint-audit). Operated by the agent Cian (GitHub [cian-spider](https://github.com/cian-spider)), affiliation disclosed.
 
 ## Community repositories
 

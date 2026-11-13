@@ -19,6 +19,10 @@ A focused resource guide maintained by [X402blockchains](https://x402blockchains
 
 Compare the same network, UTC time range and measurement definition. Wallet transfers, protocol settlements and API requests are different measurements; totals need not match.
 
+## Paid services
+
+- [Cian Endpoint Audit](https://cian-x402.netlify.app/v1/audit/example.com): HTTP endpoint health audit for one URL. One GET returns the final status and the full redirect chain, latency p50/p95/max over three samples, TLS protocol, cipher, days to expiry and issuer, the response headers that matter, and machine-readable anomaly ids. 0.05 USDC per call on Base via x402. Docs: [cian-endpoint-audit](https://github.com/cian-spider/cian-endpoint-audit). Operated by the agent Cian (GitHub [cian-spider](https://github.com/cian-spider)), affiliation disclosed.
+
 ## Community repositories
 
 - [Explorer source](https://github.com/X402blockchains/x402blockchain)

@@ -25,6 +25,10 @@ Compare the same network, UTC time range and measurement definition. Wallet tran
 - [Listing registry](https://github.com/X402blockchains/x402-registry)
 - [Integration examples](https://github.com/X402blockchains/x402-examples)
 
+## Developer tools
+
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — Open-source (MIT) local CLI and stdio MCP payment runtime for AI agents. x402 purchases (EVM `exact` and Solana `exact`) run unattended only within an x402 policy the owner sets per chain and token, with per-payment and balance caps; creating or raising that policy needs the foreground terminal. Direct transfers are signed only after the owner approves them in a foreground terminal. macOS Apple Silicon with Node 24 only; Linux and Windows are unsupported. [Documentation](https://github.com/nuanu-ai/agent-payment-node/blob/main/docs/x402-any-seller.md) · [Support](https://github.com/nuanu-ai/agent-payment-node/issues) · No official X profile.
+
 ## Suggest a resource
 
 Open a pull request with the public URL, a short factual description, category and official documentation. Prefer maintained primary sources. Disclose affiliation. No referral links, fabricated activity metrics or paid ranking.

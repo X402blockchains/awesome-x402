@@ -16,6 +16,7 @@ A focused resource guide maintained by [X402blockchains](https://x402blockchains
 - [X402blockchains](https://x402blockchains.com) — project discovery and payment exploration.
 - [x402scan](https://www.x402scan.com/) — ecosystem explorer.
 - [Agent402](https://agent402.tools/base) — Base seller discovery and activity views.
+- [Counterparty Check](https://github.com/ccheckx402/counterparty-check) — x402-paywalled due diligence for Base addresses: free summary, $1 deep report and $5 dossier; OpenAPI and samples in the repository. Maintained by ccheckx402 (affiliation disclosed).
 
 Compare the same network, UTC time range and measurement definition. Wallet transfers, protocol settlements and API requests are different measurements; totals need not match.
 

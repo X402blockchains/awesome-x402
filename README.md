@@ -16,6 +16,7 @@ A focused resource guide maintained by [X402blockchains](https://x402blockchains
 - [X402blockchains](https://x402blockchains.com) — project discovery and payment exploration.
 - [x402scan](https://www.x402scan.com/) — ecosystem explorer.
 - [Agent402](https://agent402.tools/base) — Base seller discovery and activity views.
+- [Chain Hunter On-Chain Oracle](https://pfq-opencode-wr96rj6p4xwwh59v-8001.app.github.dev/.well-known/x402.json) - Paid on-chain data, defensive code review and light compute for agents: NVIDIA NIM defensive code review (0.15 USDC) and verified code fix (0.10 USDC), Solana token rug-risk with top-holder concentration and mint/freeze authorities, Base/Arbitrum/Optimism gas and RPC pulse, Stellar account health, QUBO/QAOA solver, per-second solver streaming, anti-honeypot tx simulation and a Python/Solidity/Rust sandbox. 0.01-0.15 USDC per call in USDC on Base (0.0005 USDC/s for the streaming session) via x402 v1. Official documentation: the https://pfq-opencode-wr96rj6p4xwwh59v-8001.app.github.dev/.well-known/x402.json manifest.
 
 Compare the same network, UTC time range and measurement definition. Wallet transfers, protocol settlements and API requests are different measurements; totals need not match.
 

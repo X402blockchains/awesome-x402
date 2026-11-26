@@ -16,6 +16,7 @@ A focused resource guide maintained by [X402blockchains](https://x402blockchains
 - [X402blockchains](https://x402blockchains.com) — project discovery and payment exploration.
 - [x402scan](https://www.x402scan.com/) — ecosystem explorer.
 - [Agent402](https://agent402.tools/base) — Base seller discovery and activity views.
+- [FMF Tools](https://tools.fmf-x402.workers.dev/?ref=awesome-x402) — Catalog of pay-per-call MCP APIs for agents via x402 on Base and MPP on Tempo. tools/list is free; no account or API key. Directory MCP: https://tools.fmf-x402.workers.dev/mcp
 
 Compare the same network, UTC time range and measurement definition. Wallet transfers, protocol settlements and API requests are different measurements; totals need not match.
 

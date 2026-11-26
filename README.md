@@ -16,6 +16,7 @@ A focused resource guide maintained by [X402blockchains](https://x402blockchains
 - [X402blockchains](https://x402blockchains.com) — project discovery and payment exploration.
 - [x402scan](https://www.x402scan.com/) — ecosystem explorer.
 - [Agent402](https://agent402.tools/base) — Base seller discovery and activity views.
+- [Extract JSON](https://extract-json.mintfacts.workers.dev) — Text-to-schema-valid-JSON API on Base USDC via x402 at $0.002 per successful call, with a free /extract-lite endpoint and an MCP endpoint at /mcp. ([Docs](https://extract-json.mintfacts.workers.dev/llms.txt))
 
 Compare the same network, UTC time range and measurement definition. Wallet transfers, protocol settlements and API requests are different measurements; totals need not match.
 

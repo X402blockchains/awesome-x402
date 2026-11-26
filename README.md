@@ -19,6 +19,8 @@ A focused resource guide maintained by [X402blockchains](https://x402blockchains
 
 Compare the same network, UTC time range and measurement definition. Wallet transfers, protocol settlements and API requests are different measurements; totals need not match.
 
+- [BRAINIAC.software](https://www.brainiac.software) — Pay-per-call x402 APIs settled in USDC on Base, with no account or API key. Operator-submitted. Docs: https://www.brainiac.software/how-it-works — OpenAPI: https://www.brainiac.software/openapi.json
+
 ## Community repositories
 
 - [Explorer source](https://github.com/X402blockchains/x402blockchain)

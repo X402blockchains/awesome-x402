@@ -28,6 +28,7 @@ Compare the same network, UTC time range and measurement definition. Wallet tran
 ## Developer tools
 
 - [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — Open-source (MIT) local CLI and stdio MCP payment runtime for AI agents. x402 purchases (EVM `exact` and Solana `exact`) run unattended only within an x402 policy the owner sets per chain and token, with per-payment and balance caps; creating or raising that policy needs the foreground terminal. Direct transfers are signed only after the owner approves them in a foreground terminal. macOS Apple Silicon with Node 24 only; Linux and Windows are unsupported. [Documentation](https://github.com/nuanu-ai/agent-payment-node/blob/main/docs/x402-any-seller.md) · [Support](https://github.com/nuanu-ai/agent-payment-node/issues) · No official X profile.
+- [TaxRail](https://taxrail.online) — Pre-execution US (IRS 1099-DA, Form 8949, HIFO/SpecID, TLH) and Brazil (Lei 14.754, R$35k rule, Lucro Real) crypto & DeFi tax optimization API and Streamable HTTP MCP server (`https://api.taxrail.online/mcp`). Free simulation previews; paid micro-endpoints ($0.005-$0.10) and dynamic plan unlocks settle in Base USDC via x402 v2. Includes TypeScript (`taxrail-agent-tools`) and Python (`taxrail`) agent SDKs. [OpenAPI](https://api.taxrail.online/openapi.json) · [x402 manifest](https://api.taxrail.online/.well-known/x402) · [Repository](https://github.com/SamuelAguiar12/taxrail) · [Support](https://github.com/SamuelAguiar12/taxrail/issues).
 
 ## Suggest a resource
 

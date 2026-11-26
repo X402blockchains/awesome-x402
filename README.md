@@ -19,6 +19,10 @@ A focused resource guide maintained by [X402blockchains](https://x402blockchains
 
 Compare the same network, UTC time range and measurement definition. Wallet transfers, protocol settlements and API requests are different measurements; totals need not match.
 
+## Live services
+
+- [Switch402](https://switch402.fly.dev) — pay-per-call utility API and worker marketplace over x402 on Base (USDC): ten deterministic routes around $0.0005/call, remote MCP at /mcp, OpenAPI at /openapi.json, agent docs at /llms.txt.
+
 ## Community repositories
 
 - [Explorer source](https://github.com/X402blockchains/x402blockchain)

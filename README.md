@@ -18,7 +18,7 @@ A focused resource guide maintained by [X402blockchains](https://x402blockchains
 - [Agent402](https://agent402.tools/base) — Base seller discovery and activity views.
 
 Compare the same network, UTC time range and measurement definition. Wallet transfers, protocol settlements and API requests are different measurements; totals need not match.
-- [BaseGuard402](https://x402.baseguard402.xyz) — Base Mainnet x402 v2 API suite ($0.01–$0.05 USDC via Coinbase CDP facilitator) for ERC-20 token risk audits, Base NFT arbitrage spreads & fair-value pricing, web-to-Markdown extraction, and cited deep research; includes open-source MCP server ([GitHub](https://github.com/mirkoleesch-ai/baseguard402-mcp)), [Discovery](https://x402.baseguard402.xyz/.well-known/x402), and [llms.txt](https://x402.baseguard402.xyz/llms.txt).
+- [BaseGuard402](https://x402.baseguard402.xyz) — Autonomous Base Mainnet (8453) x402 v2 API suite (9 pay-per-call USDC endpoints, $0.01–$0.08): `url-clean`, `token-audit`, `nft-valuation`, `nft-alpha`, `smart-money`, `prediction-edge`, `deep-research`, SSRF-safe `qa-audit` & compliant `ad-copy` generator. Zero-settle on 503, 60m cache, OpenAPI 3.1.0 (`/openapi.json`), `/.well-known/x402` & [MCP Server](https://github.com/mirkoleesch-ai/baseguard402-mcp).
 
 ## Community repositories
 
